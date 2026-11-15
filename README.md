@@ -26,3 +26,5 @@ An interactive Excel dashboard developed to analyse workforce data, monitor empl
 To transform employee data into meaningful insights that support workforce analysis and informed HR decisions.
 
 *Created as part of my Data Analytics portfolio.*
+## Dashboard Preview
+![HR_Analytics_ Dashboard.xlsx](DASHBOARD_PREVIEW.PNG.png)
